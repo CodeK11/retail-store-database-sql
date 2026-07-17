@@ -1,0 +1,65 @@
+# SQL Query Documentation
+
+## Database Objects
+
+- Customers
+- Products
+- Orders
+- Order Items
+- Payments
+- Product Reviews
+
+---
+
+## SQL Categories Used
+
+### DDL
+
+- CREATE TABLE
+- PRIMARY KEY
+- FOREIGN KEY
+- CHECK Constraints
+- AUTO_INCREMENT
+
+### DML
+
+- INSERT INTO
+
+### DQL
+
+- SELECT
+- WHERE
+- ORDER BY
+- GROUP BY
+- HAVING
+- INNER JOIN
+- LEFT JOIN
+- Aggregate Functions
+- Subqueries
+
+---
+
+## Analytical Queries
+
+The project demonstrates SQL techniques including:
+
+- Sales Analysis
+- Revenue Reporting
+- Customer Analytics
+- Product Performance
+- Inventory Analysis
+- Payment Analysis
+- Review Analysis
+- Order Analysis
+
+---
+
+## Business Value
+
+The queries help management:
+
+- Monitor sales performance
+- Track customer behavior
+- Analyze product demand
+- Improve inventory planning
+- Support business decision-making
